@@ -1,5 +1,13 @@
-const express = require('express');
-const app = express();
+var path = require('path');
+var express = require('express');
+var app = express();
+app.use(express.static(path.join(__dirname, 'web')));
+console.log("getting index.html);
 
-app.use(express.static("D:/Chatbots/DemoStore (1)/herokuapp/web"))
+app.get('/', function(req, res){
+	console.log("rendering index.html");
+    res.render('index.html');
+});
+
 app.listen(process.env.PORT || 3007);
+console.log('Server running on port 3000');

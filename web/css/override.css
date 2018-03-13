@@ -1,0 +1,214 @@
+#home-page {
+    margin-top: 20px;
+}
+.phone-flex-item {
+    width: 100%;
+    border-radius: 7px;
+    margin-top: 2px;
+}
+.agreement-box {
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px -4px black;
+    padding-left: 10px;
+    padding-right: 10px padding-top: 5px;
+    padding-bottom: 5px;
+}
+#footer-btn {} .button-one-cls {
+    background-color: black;
+    color: #FBEF12;
+    border: 0px;
+    border-radius: 2px;
+}
+#container {
+    border-radius: 7px;
+    background-color: white !important;
+    box-shadow: 0 2px 10px -4px black;
+}
+
+.oj-web-applayout-footer,
+.oj-flex-bar-end {
+    display: none;
+}
+#container {} .oj-web-applayout-navbar {
+    display: none;
+}
+.oj-panel {
+    border: none;
+}
+.oj-custom-panel {
+    border-radius: 7px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 40px;
+}
+.oj-custom-panel-personal {
+    /*border: 1px solid #d1d1d1;*/
+    
+    border-radius: 7px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 40px;
+}
+.oj-flex-items-pad > .oj-flex > .oj-flex-item,
+.oj-flex.oj-flex-items-pad > .oj-flex-item {
+    padding-left: 10px;
+    padding-right: 0px;
+}
+.message-container {
+    width: 100% !important;
+    position: relative;
+}
+.oj-applayout-fixed-bottom .oj-flex.oj-flex-items-pad[style='width:420px;'] {
+    /* opacity: 0.9; */
+    
+    width: 320px !important;
+    width: 95% !important;
+}
+html {
+    font-size: 1.2em;
+}
+.oj-panel {
+    padding: 0;
+    margin: 0;
+}
+
+.oj-button.oj-default.oj-button-half-chrome .oj-button-icon,
+.oj-button.oj-focus-only.oj-button-half-chrome .oj-button-icon {
+    color: white !important;
+}
+#appSep {
+    margin-top: 50px;
+    height: 13px;
+    width: 100%;
+    background-color: rgb(208, 29, 34);
+}
+.navdrawer-profile-section {
+    background-color: white;
+    padding-top: 20px;
+}
+.oj-navigationlist-item.oj-selected {
+    border-color: white;
+}
+.oj-panel {
+    padding: 0;
+    margin: 0;
+}
+.oj-flex-items-pad {
+    margin: 0;
+}
+#navFooter {
+    height: 8%;
+    position: absolute;
+    bottom: 30px;
+}
+#homePage {
+    padding: 0;
+}
+#content {
+    padding: 10px;
+}
+#text-input {
+    /*background-color: black;*/
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+
+/*BRANDING*/
+
+
+.oj-web-applayout-header {
+    /*background: -webkit-linear-gradient(top, white 0, white 100%);*/
+    background-color: white;
+    box-shadow: 0 2px 10px -4px black;
+}
+#textFooter {
+    background-color: white;
+    padding-top: 2px;
+}
+#navDrawer {
+    /*background-color: rgb(208, 29, 34);*/
+    background-color: white;
+}
+#navPersonaPic {
+    width: 135px;
+    height: 155px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 20px;
+    box-shadow: 0 3px 10px -4px black;
+}
+#navCompanyLogo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 85%;
+    margin-bottom: 10px;
+}
+#burgerMenu {
+    background-color: #F80000;
+}
+#logoImg {
+    height: 95%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#content {
+    background-color: transparent;
+}
+.message-container {
+    padding-bottom: 50px;
+    background-color: transparent;
+}
+#page {
+    background-color: transparent;
+}
+/*Change here for page background color*/
+#pageContent{
+    background-color: #E3E7EA;
+}
+.bubble-right {
+    background-color: #F80000;
+    box-shadow: 0 2px 16px -4px black;
+    color: white;
+    padding: 5px 10px 5px 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+.bubble-left {
+    background-color: white;
+    box-shadow: 0 2px 16px -4px black;
+    padding: 5px 10px 5px 10px;
+    margin-top: 5px;
+    /*background: #f1f0f0;*/
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+.mesgBar {
+    /* width: 65%; */
+    font-size: 20px !important;
+}
+#emp-pic-btn {
+    border: 0px;
+    border-radius: 10px;
+    background-color: #F80000;
+    background-image: none;
+    color: white;
+}
+#personaChatPic {
+    height: 35px; 
+    width: 35px; 
+    border-radius: 5px;
+}
+#sendMessageButton {
+    border: 0px;
+    border-radius: 5px;
+    background-color: #F80000;
+    background-image: none;
+}
